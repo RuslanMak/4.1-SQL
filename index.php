@@ -10,10 +10,10 @@ try {
 }
 
 $pdo->exec('SET NAMES utf8');
-
 $sql = "SELECT * FROM books";
 
 ?>
+
 <!doctype html>
 <html lang="ru">
 <head>
